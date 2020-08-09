@@ -39,6 +39,7 @@ hr {
   margin: 100px auto 100px auto;
 }
 p {
+  font-size: 20px;
   line-height: 2;
 }
 .pro {
@@ -67,7 +68,7 @@ p {
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 200px;
+  top: 400px;
 }
 .profile > img {
   border-radius: 100%;

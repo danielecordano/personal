@@ -69,6 +69,10 @@ p {
   left: 300px;
   top: 400px;
 }
+.mountain {
+  width: 90%;
+  margin: auto;
+}
 .profile > img {
   border-radius: 100%;
   width: 200px;
